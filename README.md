@@ -1,0 +1,2 @@
+# cache-go-cover
+localcache
